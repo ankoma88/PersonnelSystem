@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3790548224">
+    <data-source source="LOCAL" name="PersonnelSystem" uuid="dbc9c1c3-7336-4bf0-a6e4-bbab33ebf8c6">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost:1433;databaseName=PersonnelSystem</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://C:/Temp/MsSqlJdbcDriver/sqljdbc_4.1/enu/sqljdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
